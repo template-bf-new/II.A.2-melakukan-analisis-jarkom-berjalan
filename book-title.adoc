@@ -1,4 +1,4 @@
-= Dokumen Hasil Analisis Kondisi Sistem Jaringan Komputer Lokal Yang Sedang Berjalan
+= Dokumen Hasil Analisis Kondisi Sistem Jaringan Komputer Kompleks Yang Sedang Berjalan
 
 [.text-center]
 Priyanto Tamami <tamami.oka@gmail.com>
@@ -24,16 +24,20 @@ Use this if you create a full cover in one page
 //:title-logo-image: images/logo-zimera.png
 
 
-== Latar Belakang dan Tujuan Analisis
+== Tujuan dan Batasan Analisis Sistem 
 
-== Hasil Identifikasi Perangkat
+== Identifikasi Sistem
 
-== Topologi Jaringan Yang Sedang Berjalan 
+=== Arsitektur / Topologi
 
-beserta penjelasannya
+=== Utilitas / Pemanfaatan
 
-== Data / Informasi Lalu Lintas Jaringan Komputer
+=== Performa / Kinerja Sistem
 
-== Hasil Analisis
+=== Permasalahan Yang Dihadapi
 
-== Lembar Persetujuan Dokumen
+== Hasil Telaah Sistem
+
+== Rekomendasi
+
+== Lembar Persetujuan
